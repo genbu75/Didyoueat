@@ -1,0 +1,28 @@
+
+body {
+  background-color: #393e46;
+  text-align: center;
+  font-size: 25px;
+  color: #fae7cb;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+  padding-bottom: 5px;
+  padding-top: 0px;
+  font-size: 100px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 75px;
+}
+
+img {
+  max-width: 200px;
+}
+
+
+#demo {
+  font-size: 25px;
+}
